@@ -65,4 +65,4 @@ jobs:
           echo "CLONED REPO"
           cd formulas-training
           ls -la
-        shell: bash
+        shell: bash 
